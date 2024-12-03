@@ -8,5 +8,5 @@ function checkPrime(num){
     return true
 
 }
-console.assert.log(checkPrime(5))
+console.log(checkPrime(5))
 
